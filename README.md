@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesamanian&label=Profile%20views&color=0e75b6&style=flat" alt="ganesamanian" /> </p>
 
-- 🔭 I’m currently working on [Natural Language Processing](https://github.com/Ganesamanian/Feature-extraction-for-motion-data-)
+- 🔭 I’m currently working on [Natural Language Processing](https://github.com/Ganesamanian/Computer-Assisted-Short-Answer-Grading-with-Rubrics-using-Active-Learning)
 
 - 🌱 I’m currently learning **Graph to Vector analysis using karateclub and Django framework with React App**
 
