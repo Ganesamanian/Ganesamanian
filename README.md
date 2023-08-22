@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ganesamanian Kolappan</h1>
-<h3 align="center">A passionate Machine Learning Engineer focused on Natural Language Processing and Time-series Analysis</h3>
+<h3 align="center">Data Scientist at Advosense</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesamanian&label=Profile%20views&color=0e75b6&style=flat" alt="ganesamanian" /> </p>
 
-- 🔭 I’m currently working on [Natural Language Processing](https://github.com/Ganesamanian/Computer-Assisted-Short-Answer-Grading-with-Rubrics-using-Active-Learning)
+- 🔭 I’m currently working on [Sensor data (Time-Series) for Geriatric Care](https://www.advosense.com/)
 
-- 🌱 I’m currently learning **Graph to Vector analysis using karateclub and Django framework with React App**
+- 🌱 I’m currently learning **AWS related service such as Sagemaker, CloudWatch, S3 Bucket and EC2**
 
-- 👯 I’m looking to collaborate on [Time-series Analysis](https://github.com/Ganesamanian/Feature-extraction-for-motion-data-)
+- 👯 I’m looking to collaborate on [NLP](https://github.com/Ganesamanian/Computer-Assisted-Short-Answer-Grading-with-Rubrics-using-Active-Learning)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ganesamanian](https://github.com/Ganesamanian)
 
-- 💬 Ask me about **Machine Learning, Time-series, NLP and Photography**
+- 💬 Ask me about **Machine Learning, Time-series, NLP, and Photography**
 
 - 📫 How to reach me **kganesamanianthanu@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ganesamaniank/](https://www.linkedin.com/in/ganesamaniank/)
+- 📄 Know about my experiences [**LinkedIn**](https://www.linkedin.com/in/ganesamaniank/)
+
+- 📚 Check out my publication [**Computer Assisted Short Answer Grading with Rubrics using Active Learning**](https://doi.org/10.18418/978-3-96043-107-7)
 
 <h3 align="left">Get in touch</h3>
 <p align="left">
