@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ganesamanian Kolappan</h1>
-<h3 align="center">Data Scientist at Advosense</h3>
+<h2 align="center">Data Scientist</h2>
+<h4 align="center">(Looking for an Full-time Opportunity)</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesamanian&label=Profile%20views&color=0e75b6&style=flat" alt="ganesamanian" /> </p>
 
-- 🔭 I’m currently working on [Sensor data (Time-Series) for Geriatric Care](https://www.advosense.com/)
+- 🔭 I’m currently working on Invoice processing using LLM(Freelance)
 
-- 🌱 I’m currently learning **AWS related service such as Sagemaker, CloudWatch, S3 Bucket and EC2**
+- 🌱 I’m currently learning **AGENTS,Langchain,STREAMLIT**
 
-- 👯 I’m looking to collaborate on [NLP](https://github.com/Ganesamanian/Computer-Assisted-Short-Answer-Grading-with-Rubrics-using-Active-Learning)
+- 👯 I’m looking to collaborate on [Building a University Finder website](https://github.com/Ganesamanian/university-finder-using-langchain)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ganesamanian](https://github.com/Ganesamanian)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/Ganesamanian)
 
 - 💬 Ask me about **Machine Learning, Time-series, NLP, and Photography**
 
@@ -18,6 +19,8 @@
 - 📄 Know about my experiences [**LinkedIn**](https://www.linkedin.com/in/ganesamaniank/)
 
 - 📚 Check out my publication [**Computer Assisted Short Answer Grading with Rubrics using Active Learning**](https://doi.org/10.18418/978-3-96043-107-7)
+
+- 📸 Check out my Photography [**My Instagram**](https://www.instagram.com/fotofusionist/)
 
 <h3 align="left">Get in touch</h3>
 <p align="left">
