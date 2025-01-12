@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Invoice processing using LLM(Freelance)
 
-- 🌱 I’m currently learning **AGENTS,Langchain,STREAMLIT**
+- 🌱 I’m currently learning **AGENTS for LLM**
 
 - 👯 I’m looking to collaborate on [Building a University Finder website](https://github.com/Ganesamanian/university-finder-using-langchain)
 
