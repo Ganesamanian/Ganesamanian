@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesamanian&label=Profile%20views&color=0e75b6&style=flat" alt="ganesamanian" /> </p>
 
-- 🔭 I’m currently working on Invoice processing using LLM(Freelance)
+- 🔭 I’m currently working on [Invoice processing using LLM(Freelance)](https://github.com/Ganesamanian/Invoice-Processing-with-LangChain-and-OCR)
 
 - 🌱 I’m currently learning **AGENTS for LLM**
 
