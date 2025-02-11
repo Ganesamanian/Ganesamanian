@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ganesamanian Kolappan</h1>
-<h2 align="center">Data Scientist</h2>
+<h2 align="center"> Senior Data Scientist</h2>
 <!-- <h4 align="center">(Looking for an Full-time Opportunity)</h4> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesamanian&label=Profile%20views&color=0e75b6&style=flat" alt="ganesamanian" /> </p>
