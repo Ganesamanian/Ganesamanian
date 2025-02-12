@@ -110,16 +110,10 @@
   <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="nltk" width="40" height="40"/>
   </a>
-  <a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer">
-    <img src="https://radimrehurek.com/gensim/_images/gensim_logo_positive_complete_tb.png" alt="gensim" width="40" height="40"/>
-  </a>
   <a href="https://langchain.com/" target="_blank" rel="noreferrer">
     <img src="https://newrelic.com/sites/default/files/styles/medium/public/quickstarts/images/icons/langchain-vectordb--logo.png?itok=3wd-XHaL" alt="langchain" width="40" height="40"/>
   </a>
-  <a href="https://github.com/madmaze/pytesseract" target="_blank" rel="noreferrer">
-    <img src="https://b2633864.smushcdn.com/2633864/wp-content/uploads/2020/05/tesseract_text_localization_tesseract_logo.png?lossy=2&strip=1&webp=1" alt="pytesseract" width="40" height="40"/>
-  </a>
-
+  
   <!-- Deep Learning & AI -->
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
